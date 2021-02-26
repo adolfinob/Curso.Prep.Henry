@@ -1,0 +1,18 @@
+body {background-color: rgba(17, 17, 145, 0.623);}
+.divClass {}
+#divId {}
+h1{color: rgb(255, 255, 255);}
+img{width: 400px;}
+.thirdDiv{height: 600px;
+          width: 500px;
+          background-color: lightblue;
+          padding: 50px;
+          border-color: rgb(5, 5, 5);
+          border: width 18px;
+          border-style: solid;
+        
+        }   
+#spanId{
+        font-size: 18px;
+        margin: 50;
+}
